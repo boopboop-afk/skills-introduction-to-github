@@ -4,6 +4,7 @@
 -->
 
 ## Finish
+commit changes
 
 _Congratulations, you've completed this course and joined the world of developers!_
 
